@@ -1,0 +1,2 @@
+C:\Users\Technologist\Documents\GitHub\Week-3-Challenge\BattleShip\BattleShip\bin\Debug\BattleShip.exe.config
+C:\Users\Technologist\Documents\GitHub\Week-3-Challenge\BattleShip\BattleShip\obj\Debug\BattleShip.csprojResolveAssemblyReference.cache
